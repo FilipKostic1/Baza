@@ -36,7 +36,7 @@ CREATE TABLE `rezultatikandidovanja` (
 
 LOCK TABLES `rezultatikandidovanja` WRITE;
 /*!40000 ALTER TABLE `rezultatikandidovanja` DISABLE KEYS */;
-INSERT INTO `rezultatikandidovanja` VALUES (111,0),(112,0),(113,0),(121,0),(122,0),(123,0),(131,0),(132,0),(133,0),(211,0),(212,0),(213,0),(221,0),(222,0),(223,0),(231,0),(232,0),(233,0),(311,0),(312,0),(313,0),(321,0),(322,0),(323,0),(331,0),(332,0),(333,0),(341,0),(342,0),(343,0);
+INSERT INTO `rezultatikandidovanja` VALUES (111,0),(112,1),(113,2),(114,2),(115,1),(116,2),(117,3),(118,4),(121,0),(122,0),(123,0),(131,0),(132,0),(133,0),(211,0),(212,0),(213,0),(221,0),(222,0),(223,0),(231,0),(232,0),(233,0),(311,0),(312,0),(313,0),(321,0),(322,0),(323,0),(331,0),(332,0),(333,0),(341,0),(342,0),(343,0);
 /*!40000 ALTER TABLE `rezultatikandidovanja` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -49,4 +49,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2023-06-04 13:45:27
+-- Dump completed on 2023-06-15 19:55:05

@@ -34,7 +34,7 @@ CREATE TABLE `statusizbora` (
 
 LOCK TABLES `statusizbora` WRITE;
 /*!40000 ALTER TABLE `statusizbora` DISABLE KEYS */;
-INSERT INTO `statusizbora` VALUES ('Obrada Rezultata','1'),('Obrada Rezultata','1');
+INSERT INTO `statusizbora` VALUES ('4','1');
 /*!40000 ALTER TABLE `statusizbora` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -47,4 +47,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2023-06-04 13:45:26
+-- Dump completed on 2023-06-15 19:55:05
